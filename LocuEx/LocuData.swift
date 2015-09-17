@@ -59,7 +59,7 @@ class LocuData {
                                               ]
                              ]
                             ],
-                        "api_key":"1a26a2c6c3723c249d27e80c60f418b3c9de8148"
+                        "api_key":""
                       ]
         
         var err: NSError?
